@@ -3,7 +3,7 @@ Bot-помощник для тестировщика
 
 ## Telegram-bot содержит четыре функционала:  
 
-- **генерация тестовых данных кредитных карт (VISA, Mastercard, Maestro, JCB)**
+- <ins>**генерация тестовых данных кредитных карт (VISA, Mastercard, Maestro, JCB)**</ins>
 
 <img title="Cards" src="screenshots/cards.png" alt="Кредитные карты">
 
