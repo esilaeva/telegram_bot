@@ -7,14 +7,14 @@ Bot-помощник для тестировщика
 
 <img title="Cards" src="screenshots/cards.png" alt="Кредитные карты">
 
-- **проверка JSON-файлов**  
+- <ins>**проверка JSON-файлов**</ins>  
 
 <img title="json" src="screenshots/json.png" alt="json">
 
-- **генерация тестовых данных**
+- <ins>**генерация тестовых данных**</ins>
 
 <img title="json" src="screenshots/data.png" alt="json">
 
-- **генерация тестовых файлов**
+- <ins>**генерация тестовых файлов**</ins>
 
 <img title="json" src="screenshots/files.png" alt="json">
